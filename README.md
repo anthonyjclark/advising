@@ -20,3 +20,4 @@ http://asciiflow.com/
 
 - Add links to all courses
 - Tutoring (department and campus)
+- Add fuzzy search

@@ -16,8 +16,12 @@ http://www.tablesgenerator.com/markdown_tables
 Generate diagrams:
 http://asciiflow.com/
 
+# Things to add
+
+- information about honors
+- food insecurity
+
 # TODO
 
 - Add links to all courses
-- Tutoring (department and campus)
 - Add fuzzy search

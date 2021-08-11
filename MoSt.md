@@ -1,0 +1,397 @@
+<meta charset="utf-8">
+
+**Advising**
+ [Dr. Anthony J. Clark](http://anthonyjclark.com)
+
+This is a pretty long document that can serve as a one-stop shop for all advising related activities. You might find it useful to search the page for something in-specific. For example, if you don't know what computer scientists do, you might search the page for "jobs." One last note: **I am an important part of your Missouri State experience**, you should plan on meeting with me to discuss classes, careers, and any troubles you might be having (academic or otherwise).
+
+[My homepage.](http://anthonyjclark.com)
+
+Here are some quick highlights about me:
+- You can call me Dr. Clark or professor Clark (or Tony if you feel more comfortable doing so).
+- I am originally from the KC area.
+- I have a Bachelor of Science (BS) in Computer Engineering from Kansas State University.
+- I have a Doctor of Philosophy (PhD) in Computer Science from Michigan State University.
+- I typically teach three classes per semester (CSC 325, CSC 333, and a graduate class).
+- [I work with both undergraduates and graduate students on building small, robust autonomous robots](http://anthonyjclark.com/arcs-lab/).
+
+
+Direction
+===============================================================================
+
+My office is Cheek 307. Here is how you get to my office start from the main entrance to Cheek Hall (facing north on the southeast side of the building--by National Ave).
+
+![directions to my office](resources/directions-to-office.mp4)
+
+
+Before We Meet
+===============================================================================
+
+Generally, you do not need to contact me before stopping by my office. You should feel free to stop by and chat about anything. However, if you'd like to get **released to enroll** for the next semester, I'd like you to do a little prep work before we meet:
+
+- Send me an email to setup a time to meet (we'll need about 30 minutes). See [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087).
+- Come to my office prepared with questions and/or topics to discuss.
+- Come to my office with a list of courses that you are considering.
+
+You don't need to have your schedule planned out, but it will help me get an idea for what you'd like to take. Here are some other general tips:
+
+- I prefer face-to-face meetings the first couple of times we discuss your schedules.
+- If you know your schedule or have a quick question, then we can discuss via email.
+- To make an appointment send me an email with a couple of days notice and with a few of your preferred meeting times.
+- Let me know if you are going to be more than 10 minutes late and we can reschedule.
+
+It might seem like a small things, but I highly recommend [**setting-up Outlook email on your phone**](https://w2.outlook.com/l/mobile?WT.mc_id=Outlook_Front_Door). Almost all communication on campus will be via email, and some of it will be very time sensitive (for example, a canceled class, meeting, or office hours).
+
+
+
+Advising Meetings
+===============================================================================
+
+Most of our meeting will be to discuss your course schedule for the next semester. I'll usually ask you the following question:
+
+- Why computer science?
+- Why did you choose your option (Computer Science vs Software Development)?
+- Why did you choose your minor?
+- What courses are you thinking about taking next semester?
+
+The following links/resources will be handy:
+
+- [Computer Science / Computer Science Flowchart](https://computerscience.missouristate.edu/undergraduate/computer-science-flowchart.htm)
+- [Computer Science / Software Development Flowchart](https://computerscience.missouristate.edu/undergraduate/software-development-flowchart.htm)
+- [Computer Science Minor](https://computerscience.missouristate.edu/undergraduate/minor.htm)
+- [Web Programming Certificate](https://computerscience.missouristate.edu/359124.htm)
+- [General Education Worksheets](https://www.missouristate.edu/GeneralEducation/GenEd_Worksheet.htm)
+- [Find transfer courses by school](https://mis.missouristate.edu/Student/transEquiv/transEquiv)
+- [Find transfer courses by MSU course code](https://mis.missouristate.edu/Student/transEquiv/transEquivSearch)
+- [Courses offered by Computer Science Department](https://computerscience.missouristate.edu/coursesoffered.htm)
+- [Class Schedule](https://www.missouristate.edu/classschedule/)
+- [List of All MSU Majors and Minors](https://www.missouristate.edu/registrar/catalog/majorsminors.htm)
+- [Academic Calendar](https://calendar.missouristate.edu/home/academic)
+
+## Getting an advisor release over email
+
+While it is not my preferred method, if you are organized we can always complete an advising meeting by email. I expect you to send me your proposed schedule as well as a few backup courses. You should use the [Trial Schedule Builder](https://www.missouristate.edu/registrar/trialschedulebuilder.htm) to create a schedule. The Trial Schedule Builder gives you the option to email your chosen schedule to any email address (after you generate your schedule, click on "Open" and type in my email address where appropriate).
+
+
+FAQs
+===============================================================================
+
+What is the difference between [*Computer Science*](https://computerscience.missouristate.edu/), [*Management and Information Systems* (computer information systems, information technology)](https://itc.missouristate.edu/), and [*Computer Engineering*](https://www.missouristate.edu/egr/electrical/Computer-EGR-Minor.htm)?
+: To put it simply: <u>computer scientists</u> study programming, theory, and methods for developing large programs; <u>management and information systems students</u> focus more on business, using software as a tool, and making decisions on computer hardware (specs, prices, etc.); and <u>computer engineers</u> work more on *low-level* software that more interacts directly with hardware (sometimes called embedded systems, like writing a driver for a new USB device so that it can talk to the operating system). See [this discussion on Reddit](https://www.reddit.com/r/explainlikeimfive/comments/anr40s/eli5_whats_the_difference_between_cs_computer/) for more information.
+
+
+What is the difference between the [*Computer Science* (CS)](https://computerscience.missouristate.edu/undergraduate/Computer-Science-Option.htm) and [*Software Development* (SD)](https://computerscience.missouristate.edu/undergraduate/Software-Development-Option.htm) options?
+: **Math**. The biggest difference between these two options is that CS students get a math minor, and SD students choose from [any other option available on campus](https://www.missouristate.edu/registrar/catalog/majorsminors.htm). The SD option is new, but so far we've seen no indication that employers treat CS and SD students differently. I should also note, that the math classes in the CS option are useful for students that are interested in machine learning, computer graphics, physics simulations, data mining, pattern recognition, deep learning, etc.
+
+
+What minors do Software Development students choose?
+: Our Software Development students complete a broad range of minors, including: Cybersecurity, web application development, business, a foreign language, graphic design, story telling, and math (see section Cybersecurity Minor).
+
+
+What kind of jobs do computer science students get?
+: Computer scientists are in-demand both in Missouri and around the country. Most of our students end up with the title *Software Engineer*, which means they spend their time designing, programming, and debugging large pieces of software. Check out the [department website for a partial list of where are students work](https://computerscience.missouristate.edu/undergraduate/careers.htm) (see section Getting a Job for more information).
+
+<!-- salaries, companies, success rates for department -->
+
+<!-- What is the engineering program? -->
+
+
+How do I get involved in computer science on campus and in Springfield?
+: See section Getting Involved.
+
+
+What programming languages should I know?
+: There is no correct answer here, but I'd recommend learning the following: a common scripting language (e.g., Python, Ruby), a language that compiles to native code (e.g., C, C++, Rust), a JVM language (e.g., Java, Kotlin, Scala), a web programming language (e.g., JavaScript, TypeScript), and a functional programming language (e.g., Lisp, Haskell). The more important question is answered next.
+
+
+How do I learn a new programming language?
+: You have to have a project to work on. It is impossible to learn a language without having something to drive your interest. I recommend coming up with a project idea (building a game, a website, a language, etc.) and then picking a new programming language.
+
+
+How can I get help with writing, math, interviewing, finances, etc?
+: See section Resources.
+
+
+Can I test-out of (not have to take) the beginner CS courses?
+: Yes, you should speak with your advisor about taking an exam to test-out of CSC 130 and/or CSC 131.
+
+
+Cybersecurity Minor
+===============================================================================
+
+Quite a few of our Software Development students choose a Cybersecurity minor. This minor has a few advantages: (1) employers like to see some competency in this area, (2) it is a subject in which many students are interested, and (3) it requires the fewest number of hours to complete.
+
+Point (3) is true because some computer science courses are accepted for both your major and your minor. To get a Cybersecurity minor you must take the following classes: CSC 344, 335, 388, and 482, and ITC 330, 564, and 583. This is a total of 18 hours, but 9 of these hours will count for **both** your major and your minor. Note, the ITC Department was formerly MIT (management and information technology department) and before that it was CIS (computer information systems department).
+
+The table below shows the course substitutions:
+
+Courses for ITC Minor | CSC Equivalent (**take these courses**)
+---|---
+ITC 235 Computer Hardware and Operating Systems | **CSC 344 Computer Systems Fundamentals**
+ITC 295 Database Management Systems Concepts and Design | **CSC 335 Database System Concepts**
+**ITC 330 Introduction to Networking[^ITC330]** | (take ITC course)
+ITC 560 Fundamentals of Cybersecurity | **CSC 388 Introduction to Secure Computing** + **CSC 482 Senior Seminar**
+**ITC 564 Hacker Techniques and Incident Response[^ITC564]** | (take ITC course)
+**ITC 583 Cloud Computing** | (take ITC course)
+
+[^ITC330]: ITC 330 has a prerequisite of CSC 344 (ITC 235).
+
+[^ITC564]: ITC 564 has a prerequisite of CSC 388 (ITC 560).
+
+So, you can get your Cybersecurity minor by taking only an additional three courses! You must speak with [Business Advisement Center](https://www.missouristate.edu/busadv/) to get it on your degree audit. Do it early!
+
+These courses also count double for the following business minors (speak with me and the ITC Department):
+- [Business Application Development Minor](https://itc.missouristate.edu/businessapplicationdevelopment/)
+- [Information Technology Minor](https://itc.missouristate.edu/it/minor.htm)
+- [Web Application Development Minor](https://itc.missouristate.edu/webapplicationdevelopmentminor/ProgramRequirements.htm)
+
+
+General Electives
+===============================================================================
+
+The general electives listed below work well with Computer Science. They will let you more easily switch between the Computer Science and Software Development options, and they will often double count for general elective and computer science major requirements. Basically, if you have the choice, pick classes from the following lists.
+
+- Foundations, Written Comm. & Integrative & Applied Learning
+    + ENG 321 Writing II-Beginning Technical Writing (3)
+
+- Natural World, Life Sciences (**pick 1**)
+    + BIO 121 General Biology I (4) (includes lab)
+    + BMS 110/111 Intro to Biomedical Sciences (4) (includes lab)
+
+- Natural World, Physical Sciences (**pick 1**)
+    + CHM 116/117 Fundamentals of Chemistry (5) (includes lab)
+    + GLG 110 Principles of Geology (4) (includes lab)
+    + GRY 135 Principles of Weather & Climate (4) (includes lab)
+    + GRY 142 Introductory Physical Geography (4) (includes lab)
+
+- Human Cultures, Social & Behavioral Sciences (**take both**)
+    + ECO 165 Principles of Microeconomics (3)
+    + PSY 121 Introductory Psychology (3)
+
+For all other general elective categories you can feel free to choose whatever you find interesting. Go [here for an explanation of the general education requirements](https://www.missouristate.edu/registrar/catalog/dept_uc.html).
+
+For the science electives, Software Development students only need to take 7 credit hours worth of classes. Here are some common options:
+
+- BIO 121* (4) + GLG* 110 (4)
+- BMS 110 (3) + GLG* 110 (4)
+- BMS 110 (3) + BMS 111* (1) + CHM 116 (4)
+- BMS 110 (3) + CHM 116 (4) + CHM 117* (1)
+
+(* means it includes a lab)
+
+Getting Involved
+===============================================================================
+
+Computer science students have a lot of opportunities for getting involved in student activities and professional societies.
+
+For student activities, I'd recommend checking out the following:
+- the ACM (meets every two weeks in Cheek) [Discord](https://discord.gg/DcmSaW)
+- the [CS Student Chat on Discord](https://discord.gg/xjjGaNN)
+- the Robotics Club (a new club that is starting this fall) [Discord](https://discord.gg/5PNeB5)
+- the IEEE (meets with the EE students in the [Plaster Free Enterprise Center](https://www.missouristate.edu/ideacommons/plastercenter.htm))
+- Women in Technology
+- STEMentors
+
+Go to [Campus Link](https://missouristate.campuslabs.com/engage/) for more information and any of the student clubs.
+
+For information about tech groups in Springfield I'd recommend looking for relevant [Meetups](https://www.meetup.com/cities/us/mo/springfield/tech/) and the [SGF Web Devs](http://sgfwebdevs.com/) group. If you plan on looking for jobs in Springfield, I also highly recommend participating in the [Hack 4 Good](https://hack4goodsgf.com/about/) competition.
+
+
+Getting a Job
+===============================================================================
+
+You should start by answering the following question for yourself: *What are your career goals?*. Do you want to work in web development? Do you want to start your own company? Do you want to work for a large or famous tech company? Do you want to build video games? It is useful to have some idea about what you want out of your computer science career.
+
+Here are my recommendations:
+- start working on your computer science *profile* early (see below)
+- get involved in student groups (section Getting Involved)
+- get involved in off-campus activities (section Getting Involved)
+- consider working on an independent research project (CSC 596)
+
+**Computer science profile**: when looking for computer science jobs, it is important for you to demonstrate that you (a) have a passion for learning new technologies and (b) have the ability to develop a medium sized piece of software (something bigger than your class projects). The easiest way to do this is to develop your portfolio of coding projects.
+
+I recommend creating a [GitHub](https://github.com/) account (or BitBucket or GitLab, or etc.), and then creating a simple website that describes your varying projects. You can then put a link to that website on your resume. This will enable you to highlight which projects you want employers to view. Make sure you have design documents, good documentation, and good follow-through.
+
+See section Help with careers for advice on creating your resume and preparing for interviews.
+
+
+Graduate School
+===============================================================================
+
+Pursuing a Master's or PhD is quite a bit different than pursing a job. Getting a Master's is not too much different than the process you went through to get your undergraduate degree, so I am going to focus on PhDs here.
+
+Here is the basic process:
+- Get some undergraduate research experience (research experience for undergraduates (REUs) and independent research projects).
+- Take the [the GRE general test](https://www.ets.org/gre) (similar to the ACT/SAT).
+- Find an **advisor**. Your choice of advisor is vastly more important than your choice of school.
+
+For finding an advisor, I recommend:
+
+1. Searching for research papers ([Google Scholar](https://scholar.google.com/) work well) that cover topics in which you are interested. Look for papers that were published in the last few years.
+2. Contact authors that are current faculty members (the first author is most likely a PhD student). When you contact faculty members you should not be pushy, but you should offer to send them descriptions of your undergraduate research and your resume. This should be done during the middle of the fall semester (assuming you want to start grad school the following fall).
+
+Students often think they need to complete a Master's before they look for PhD programs. However, many faculty members prefer you to get your Master's with them too. This gives them an extended period of time to work with you before they need to commit to funding your through a PhD. Basically, if you don't work well with the advisor you can leave with your Master's and look for someone else to guide you through a PhD.
+
+Resources:
+- [Applying to Graduate School](https://careers.umbc.edu/students/gradschool/)
+- [Computer Science Undergraduate Research: Grad School](https://conquer.cra.org/students)
+
+Universities
+===============================================================================
+
+Below is a simple diagram depicting the university organization. [MSU has eight colleges](https://www.missouristate.edu/academics/departments.aspx) (seven *normal* colleges and the graduate college). For clarity, the diagram focuses on two: CNAS and COB.
+
+<!-- http://asciiflow.com/ -->
+
+*******************************************************************************
+*                      +---------------------+
+*                      |   Missouri State    |
+*                      |     University      |
+*                      |  (President Smart)  |
+*                      +---------+-----------+
+*                                |
+*             +------------------+-------------------+
+*             v                                      v
+* +-------------------------+           +--------------------------+
+* |   College of Natural    |           |       College of         |
+* |  and Applied Sciences   |           |        Business          |
+* |     (Dean Jahnke)       |           |     (Dean Meinert)       |
+* +-----------+-------------+           +------------+-------------+
+*             |                                      |
+*             v                                      v
+* +-------------------------+           +--------------------------+
+* |    Computer Science     |           |Management and Information|
+* |       Department        |           |  Technology Department   |
+* |    (Head Katangur)      |           |       (Head Davis)       |
+* |                         |           |                          |
+* | Computer Science        |           | Application Development  |
+* | Software Development    |           | IT Infrastructure        |
+* | Computer Science Minor  |           | Business App. Dev. Minor |
+* | Informatics Minor       |           | Cybersecurity Minor      |
+* | Web Development Cert.   |           | Web App. Dev. Minor      |
+* +-------------------------+           +--------------------------+
+*******************************************************************************
+
+**PhDs.** Most faculty members have *Doctorates of Philosophy* (abbreviated PhD). This does not mean that they have a doctorate **in** philosophy. It is just a title. For example, I have a Doctorate of Philosophy in Computer Science from a Computer Science department.
+
+**Semesters.** College classes are only one semester in duration. Unlike high school, when you come back after the winter break, you will be in a completely new set of classes.
+
+**Comprehensive Majors.** Comprehensive majors *include* a primary and secondary area of study and do not require a minor.
+
+**Bachelor of Science (BS) or Bachelor of Arts (BA).** BAs typically require fewer major-specific courses.
+
+
+Resources
+===============================================================================
+
+I am absolutely not an expert on everything you'll need to know. But I can help point you in the correct direction.
+
+## Help with Conflicts
+
+- [The Student Obudsman](https://www.missouristate.edu/sdpa/studentombudsman.htm)
+    + ask for help resolving a conflict between faculty and students
+- ["Complaint Hotline"](https://www.missouristate.edu/provost/RDarabi.aspx)
+    + Dr. Darabi is a great person to speak with if you need help
+
+## Help with classes and academics
+
+- [The Bear CLAW (Center for Learning and Writing)](https://bearclaw.missouristate.edu/) (tutoring service)
+    + they hire students!
+    + learn how to take better notes in class
+    + learn better time management
+    + walk in for free tutoring services
+    + schedule a time to meet with someone to discuss your writing
+- [Admissions](https://www.missouristate.edu/admissions/)
+    + [transfer credit evaluation](https://www.missouristate.edu/admissions/transfercreditevaluation.htm)
+    + [transfer credit reevaluation](https://www.missouristate.edu/transfer/transfercreditreevaluationandpreapproval.htm)
+- [Access Technology Center](https://www.missouristate.edu/atc/default.htm)
+    + resources for individuals with disabilities
+- [Computer Science Tutors](https://computerscience.missouristate.edu/facilities.htm)
+    + see fliers in the computer science department hallway
+    + this is a free tutoring service
+    + you can ask questions about any CS course
+
+## Help with finances
+
+- [Financial Aid](https://www.missouristate.edu/FinancialAid/)
+    + [grants](https://www.missouristate.edu/FinancialAid/Grants.htm)
+    + [loans](https://www.missouristate.edu/FinancialAid/loans/)
+    + [scholarships (general and departmental)](https://www.missouristate.edu/FinancialAid/scholarships/)
+    + [work study](https://www.missouristate.edu/studentemp/205968.htm)
+- [Student Employment Services](https://www.missouristate.edu/studentemp/)
+    + getting a job on campus
+    + getting a job off campus
+
+## Help with health (mental and physical)
+
+- [Magers Health and Wellness Center](https://health.missouristate.edu/)
+- [Counseling Center](https://counselingcenter.missouristate.edu/)
+    + breakups, stress, anxiety, academic trouble, depression
+    + confidential
+    + free (8 sessions per semester)
+    + only need to be enrolled in 1 hour
+    + say "crisis" if you need immediate help
+    + 24 hours a day
+    + Magers Health and Wellness Center
+- [Disability Resource Center (DRC)](https://www.missouristate.edu/disability/default.htm)
+    + accommodations
+    + taking exams outside of the classroom
+    + accessible parking
+    + accessibility problems
+    + [more information about campus resources](https://www.missouristate.edu/disability/67927.htm)
+- [Coping with Imposter's Syndrome](https://news.byu.edu/intellect/imposter-syndrome-is-more-common-than-you-think-study-finds-best-way-to-cope-with-it)
+- [Bear Pantry](https://www.missouristate.edu/cce/bear-pantry.htm)
+    + this service provides food free of charge to those in need
+
+## Help with technology
+
+- [Computer Services Help Desk](https://helpdesk.missouristate.edu/)
+- [Experts Knowledge Base](https://experts.missouristate.edu/)
+- [Blackboard training for students](https://helpdesk.missouristate.edu/training-for-students.htm)
+- [My Missouri State Portal (mymissouristate) guide](https://experts.missouristate.edu/display/KB/My+Missouri+State+Portal)
+    + build a schedule (register): Registration (Tab) -> Trial Schedule Builder
+    + add classes: Registration (Tab) -> Add or Drop Classes
+    + drop classes: Registration (Tab) -> Add or Drop Classes
+    + earliest registration date: Registration (Tab) -> Registration Status
+    + advising notes: Registration (Tab) -> Advising Notes
+    + degree audit: Student (Tab) -> Degree Audit and Student Educational Planner
+    + test out different majors/minors: degree audit -> "What If"
+- Course overrides and waivers are done by department heads
+
+## Help with careers
+
+- [Career Center](https://careercenter.missouristate.edu/)
+    + finding jobs
+    + [resume critiques](https://careercenter.missouristate.edu/ResumeMadness.htm)
+    + [mock interviews (practice interviews)](https://careercenter.missouristate.edu/students/PracticeInterviews.htm)
+    + [career fairs](https://careercenter.missouristate.edu/Career-fairs.htm)
+- You can also ask CS faculty for resume critiques and interview practice
+
+## Help with campus programs
+
+- [Study Away](https://international.missouristate.edu/studyaway/)
+    + study abroad
+    + international studies
+- [Fraternity and Sorority Life](https://www.missouristate.edu/studentengagement/FSL/)
+    + Greek life
+- [Honors](https://www.missouristate.edu/honors/)
+- [Oldham Family Veteran Student Center](https://www.missouristate.edu/veterans/)
+- [Resources for Running a Student Organization (from the advisors perspective)](https://organizations.missouristate.edu/guide/advisors.htm)
+
+## Other
+
+- [Graduating](https://www.missouristate.edu/registrar/grad_eligibility.htm)
+- [iGrade Evaluations](https://sga.missouristate.edu/iGrade.htm)
+
+Closing Remarks
+===============================================================================
+
+Your computer science degree is **not** about preparing you for all (or any really) possible pieces of technology that you will see once you start your career after graduation. In fact, we expect you to have to do a lot of learning once you leave us.
+
+What we want to do is teach you how to learn new ideas, concepts, technologies, and languages.
+
+
+If you think something is missing from this page please feel free to submit an [issue](https://guides.github.com/features/issues/) or better yet a [pull request](https://help.github.com/articles/about-pull-requests/) to [the repository](https://github.com/anthonyjclark/advising/).
+
+
+<!-- Markdeep: --><script>window.markdeepOptions = {tocStyle: 'long'};</script><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>

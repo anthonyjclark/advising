@@ -1,5 +1,6 @@
 # advising
-Advising resources for Missouri State University students
+
+Advising resources for Pomona College students.
 
 Go to: https://anthonyjclark.github.io/advising/
 
@@ -18,10 +19,7 @@ http://asciiflow.com/
 
 # Things to add
 
-- information about honors
-- food insecurity
-
-# TODO
-
-- Add links to all courses
-- Add fuzzy search
+- [CSStipendRankings: CS PhD Stipend Rankings](https://csstipendrankings.org/)
+- [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations – Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
+- [What faculty members are looking for in a grad school application essay. – MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
+- [CS PhD Statements of Purpose](https://cs-sop.org/)

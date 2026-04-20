@@ -1,23 +1,18 @@
-# advising
+# Advising
 
-Advising resources for Pomona College students.
+[Advising resources for Pomona College studentsA](https://anthonyjclark.github.io/advising/).
 
-Go to: https://anthonyjclark.github.io/advising/
-
-# Markdeep notes
+## Markdeep Notes
 
 URL Arguments:
 
 - `noformat`: Attempt to display the original source of the document.
 - `export`: Make the displayed body HTML source code produced by Markdeep.
 
-Generate tables:
-http://www.tablesgenerator.com/markdown_tables
+- [Generate tables](http://www.tablesgenerator.com/markdown_tables)
+- [Generate diagrams](http://asciiflow.com/)
 
-Generate diagrams:
-http://asciiflow.com/
-
-# Things to add
+## Things to Add
 
 - [CSStipendRankings: CS PhD Stipend Rankings](https://csstipendrankings.org/)
 - [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations – Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
